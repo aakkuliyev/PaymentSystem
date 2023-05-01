@@ -1,0 +1,25 @@
+DepositTransaction@723279cf
+DepositTransaction@3d494fbf
+TransferTransaction{id=1, date=Sat Apr 29 01:48:19 ALMT 2023, type='Transfer', amountOfMoney=100.0, recipientId=2}
+TransferTransaction{id=2, date=Sat Apr 29 01:48:19 ALMT 2023, type='Transfer', amountOfMoney=100.0, recipientId=1}
+DepositTransaction@300ffa5d
+DepositTransaction@5010be6
+DepositTransaction@685f4c2e
+DepositTransaction@7daf6ecc
+DepositTransaction@2e5d6d97
+DepositTransaction@238e0d81
+TransferTransaction{id=1, date=Sat Apr 29 02:31:07 ALMT 2023, type='Transfer', amountOfMoney=100.0, recipientId=2}
+TransferTransaction{id=2, date=Sat Apr 29 02:31:07 ALMT 2023, type='Transfer', amountOfMoney=100.0, recipientId=1}
+Transactions{id=1, date=Sat Apr 29 02:35:38 ALMT 2023, type='Deposit', amountOfMoney=250.0}
+Transactions{id=2, date=Sat Apr 29 02:35:38 ALMT 2023, type='Deposit', amountOfMoney=150.0}
+Transactions{id=1, date=Sat Apr 29 02:35:57 ALMT 2023, type='Deposit', amountOfMoney=300.0}
+Transactions{id=2, date=Sat Apr 29 02:35:57 ALMT 2023, type='Deposit', amountOfMoney=56.0}
+Transactions{id=1, date=Sat Apr 29 02:35:57 ALMT 2023, type='Deposit', amountOfMoney=51.0}
+Transactions{id=3, date=Sat Apr 29 02:36:20 ALMT 2023, type='Deposit', amountOfMoney=1000.0}
+TransferTransaction{id=1, date=Sat Apr 29 02:36:20 ALMT 2023, type='Transfer', amountOfMoney=100.0, recipientId=2}
+TransferTransaction{id=2, date=Sat Apr 29 02:36:20 ALMT 2023, type='Transfer', amountOfMoney=100.0, recipientId=1}
+Transactions{id=2, date=Sat Apr 29 02:48:03 ALMT 2023, type='Deposit', amountOfMoney=150.0}
+Transactions{id=2, date=Sat Apr 29 02:48:47 ALMT 2023, type='Deposit', amountOfMoney=300.0}
+Transactions{id=1, date=Sat Apr 29 02:49:23 ALMT 2023, type='Deposit', amountOfMoney=51.0}
+TransferTransaction{id=1, date=Sat Apr 29 02:49:46 ALMT 2023, type='Transfer', amountOfMoney=100.0, recipientId=2}
+TransferTransaction{id=2, date=Sat Apr 29 02:49:46 ALMT 2023, type='Transfer', amountOfMoney=100.0, recipientId=1}
